@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/14 21:19:56.000.601,=C:\Users\FRANZ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/14 21:25:21.000.471,C:\Users\FRANZ\Documents\Embarcadero\Studio\Projects\pGastos\u_Login.pas=C:\Users\FRANZ\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/14 21:25:21.000.471,C:\Users\FRANZ\Documents\Embarcadero\Studio\Projects\pGastos\u_Login.dfm=C:\Users\FRANZ\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/02/14 21:25:31.000.272,C:\Users\FRANZ\Documents\Embarcadero\Studio\Projects\pGastos\p_Gastos.dproj=C:\Users\FRANZ\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/02/15 09:33:46.000.506,=C:\Users\FRANZ\Documents\Embarcadero\Studio\Projects\pGastos\Unit1.pas</Transaction>
+    <Transaction>2020/02/15 09:34:27.000.106,C:\Users\FRANZ\Documents\Embarcadero\Studio\Projects\pGastos\Unit1.dfm=C:\Users\FRANZ\Documents\Embarcadero\Studio\Projects\pGastos\u_Cadastro.dfm</Transaction>
+    <Transaction>2020/02/15 09:34:27.000.106,C:\Users\FRANZ\Documents\Embarcadero\Studio\Projects\pGastos\Unit1.pas=C:\Users\FRANZ\Documents\Embarcadero\Studio\Projects\pGastos\u_Cadastro.pas</Transaction>
+  </Transactions>
+</BorlandProject>

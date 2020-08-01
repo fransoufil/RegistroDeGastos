@@ -1,0 +1,46 @@
+unit u_Login;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, u_Cadastro;
+
+type
+  TformLogin = class(TForm)
+    Label1: TLabel;
+    Label2: TLabel;
+    btnLogin: TButton;
+    editUsuario: TEdit;
+    editSenha: TEdit;
+    procedure btnLoginClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  formLogin: TformLogin;
+
+implementation
+
+{$R *.dfm}
+
+procedure TformLogin.btnLoginClick(Sender: TObject);
+begin
+     if ((editUsuario.Text = 'franz') and (editSenha.Text = 'souza')) then
+       begin
+        formCadastro.Show;
+        editUsuario.Text:='';
+        editSenha.Text:='';
+       end
+
+      else
+
+
+
+
+end;
+
+end.

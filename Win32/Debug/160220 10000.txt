@@ -1,0 +1,10 @@
+
+Data: 16/02/20
+ 
+Valor: 100,00
+ 
+Código: CRÉDITO		
+ 
+Categoria: ALIMENTAÇÃO		
+ 
+Observação: TESTE
